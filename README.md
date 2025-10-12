@@ -12,7 +12,7 @@ Enjoy!
 
 __**Mortr's Code Pestle**__ is @mortrpestl (Diogn Mortera)'s solution to creating programming contests that run offline. 
 
-![Overview](../assets/readme_asset1.png)
+![Overview](assets/readme_asset1.png)
 
 The name of the project comes from the nature of the mortar and pestle, grinding material compounds until they're ground. In a way, this project is similar: a primitive (but accessible offline!) implementation of the Online Judges used in Codeforces and UPD's DMOJ fork.
 
@@ -26,8 +26,8 @@ This consists of two parts: (1) making problems and (2) adapting the judges for 
 ## Making Problem Statements
 
 <p float="center">
-  <img src="../assets/readme_asset2.png" width="45%" />
-  <img src="../assets/readme_asset3.png" width="45%" />
+  <img src="assets/readme_asset2.png" width="45%" />
+  <img src="assets/readme_asset3.png" width="45%" />
 </p>
 
 1. You may use the Typst template for the files, which can be found in `problem_template.typ`. This allows easy formatting of the problem specifications:
