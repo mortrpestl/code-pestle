@@ -9,4 +9,4 @@ How the tester will work is that it will:
 """
 
 def model(*T):
-    ...
+    #type model solution here

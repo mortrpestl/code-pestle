@@ -157,18 +157,18 @@ subtasks = {
     "Subtask 1": {
         "points": 200,
         "cases": [
-            ("sample testcase",),
+            ["sample testcase"],
             ...
         ]
     },
     "Subtask 2": {
         "points": 169,
         "cases": [
-            ("sample testcase",),
-            ("sample test","cases",),
-            (1,),
-            (1,2,3,4,5,6,),
-            ([1],[2],(5,6),(7),),
+            ["sample testcase"],
+            ["sample test","cases"],
+            [1],
+            [1,2,3,4,5,6],
+            [[1],[2],(5,6),(7,)],
         ]
     }
 }
@@ -206,8 +206,8 @@ For example:
 
 ## Credits
 
-- DCServer for introducing me to Typst
-- UP DCS Batch 2025 for appreciating my efforts 💝
+- **DCServer** for introducing me to Typst
+- **UP DCS Batch 2025** for appreciating my efforts 💝
 
 ## License
 

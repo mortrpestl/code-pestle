@@ -3,8 +3,8 @@
 
 #---to test your code, RUN this file---
 
-def solve(*T):
-    ...
+def solve(*T): #change parameters based on problem
+    ... #type solution here
 
 #---to test your code, RUN this file---
 
