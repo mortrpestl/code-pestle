@@ -216,7 +216,7 @@ Good luck!
       `solve(1,2)` results in 3
       ],
   constraints: [
-    If there are  parameters, be absolutely clear. Make sure your constraints match your test cases, especially if you have many subtasks.
+    If there are parameters, be absolutely clear in specifying them. Make sure your constraints match your test cases, especially if you have many subtasks.
 
     Example:\
     $0<=a,b<=20$
