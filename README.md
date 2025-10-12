@@ -1,4 +1,4 @@
-# Mortr's Code Pestle 🔨
+# Code Pestle 🔨
 
 
 If you are here, I will assume you are:
