@@ -130,7 +130,7 @@ Students are to replace parameters inside the `solve(*T)` and write the code ins
 
 Students may be able to check their code by running it (through the standard `python3 student_solution` in the Terminal)
 
-**NOTE:** solve() must have at least one paramter. On a related note, generator-based functions are still unsupported as of October 2025.
+**NOTE:** `solve()` must have at least one paramter. On a related note, generator-based functions are still unsupported as of October 2025.
 
 ### `model_solution`
 
@@ -186,10 +186,11 @@ This file serves as the bridge of the three files above:
 - compares answers of `solve()` and `model()`
 - automatically returns raw and summarized information of verdicts (including errors such as TLE and MLE)
 
+Do not attempt to touch this file if you're not sure what you're doing.
 
-Do not attempt to touch the file if you're not sure what you're doing.
 
-The rest of the files not in the folder tree above do not matter, but _please do not touch them_.
+
+The rest of the files not in the folder tree above do not matter, but _please refrain from touching them_.
 
 ### Final Notes
 
@@ -197,7 +198,7 @@ Make sure the parameters of `model_solution` and `student_solution`, and the cas
 
 For example:
 
-- for a problem with student function `solve(n, tup, word)`, model must also be `model(n,tup,L)`, and a properly formatted case would be `[1,(5,6,7),"hey"]`.
+- for a problem with student function `solve(n, tup, word)`, model must also be `model(n, tup, word)`, and a properly formatted case would be `[1,(5,6,7),"hey"]`.
 ## Limitations/Improvements
 
 - as of October 2025:
