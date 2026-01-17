@@ -1,8 +1,4 @@
-# Code Pestle 🔨
-
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
-![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success)
+# Code Pestle
 
 If you are here, I will assume you are:
 
